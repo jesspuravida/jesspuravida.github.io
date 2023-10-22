@@ -134,7 +134,7 @@ body {
 }*/
 
 a {
-  color: #ea397a;
+  color: #ff92ba;
 }
 
 /* main blockqoute */
@@ -231,7 +231,7 @@ ul.side-nav li {
 
 ul.side-nav.fixed a {
   box-sizing: content-box;
-  color: rgb(160, 84, 227);
+  color: rgb(242, 137, 198);
   display: block;
   line-height: 100%;
   padding: 10px 0 12px;
@@ -314,7 +314,7 @@ h3 {
 } */
 
 #intro.section {
-  background: #f585ac85 repeat;
+  background: #f7b9cf repeat;
   position: relative;
 }
 
@@ -542,8 +542,8 @@ small {
 
 /* main .teal-text */
 
-.teal-text {
-  color: #944573 !important;
+.pink-text {
+  color: #c35695 !important;
 }
 
 /* .teal-text {
@@ -552,8 +552,8 @@ small {
 
 /* .teal */
 
-.teal {
-  background-color: #944573 !important;
+.pink {
+  background-color: #c35695 !important;
 }
 
 /* .teal {
