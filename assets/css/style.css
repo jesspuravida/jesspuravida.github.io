@@ -79,7 +79,7 @@
   position: relative;
   padding: 11px 35px;
   background: #fff;
-  color: #8a1b5c;
+  color: #be1377;
   border: 2px solid #fff;
   font-weight: 600;
   font-size: 15px;
@@ -314,7 +314,7 @@ h3 {
 } */
 
 #intro.section {
-  background: #ffa7c685 repeat;
+  background: #f585ac85 repeat;
   position: relative;
 }
 
@@ -543,7 +543,7 @@ small {
 /* main .teal-text */
 
 .teal-text {
-  color: #c02680a5 !important;
+  color: #944573 !important;
 }
 
 /* .teal-text {
@@ -553,7 +553,7 @@ small {
 /* .teal */
 
 .teal {
-  background-color: #c02680a5 !important;
+  background-color: #944573 !important;
 }
 
 /* .teal {
