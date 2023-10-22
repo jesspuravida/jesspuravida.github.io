@@ -543,7 +543,7 @@ small {
 /* main .teal-text */
 
 .pink-text {
-  color: #c35695 !important;
+  color: #FFAFCC !important;
 }
 
 /* .teal-text {
@@ -553,9 +553,12 @@ small {
 /* .teal */
 
 .pink {
-  background-color: #c35695 !important;
+  background-color: #FFC8DD !important;
 }
 
+.blue{
+  color: #BDE0FE
+}
 /* .teal {
   background-color: #00695c !important;
 } */
